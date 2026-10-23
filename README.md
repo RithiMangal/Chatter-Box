@@ -1,5 +1,14 @@
 # Chatter Box
 
+![Linux](https://img.shields.io/badge/platform-Linux-blue?style=for-the-badge&logo=linux)
+![Rust](https://img.shields.io/badge/built_with-Rust-orange?style=for-the-badge&logo=rust)
+![License](https://img.shields.io/badge/license-GPL--3.0-green?style=for-the-badge)
+![AppImage](https://img.shields.io/badge/distro-AppImage-red?style=for-the-badge)
+
+• Strategic Recommendation: Frames Lubuntu as the primary native development environment for guaranteed stability.
+• Technical Breakdown: Bullet points highlighting the streamlined configuration, low resource footprint, and its ability to revive older hardware with zero lag.
+• Veteran Insight: Concludes with an engaging nod to the fun of managing multiple Linux environments.
+
 Compact, borderless, dark-neon offline AI chat GUI for Linux.
 Built with **Rust + egui (eframe 0.29)**. Delivered as a single **AppImage**.
 Runs on any modern Linux distro (tested on ParrotSec Plasma). No internet required at runtime.
